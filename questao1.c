@@ -1,3 +1,10 @@
+/*
+Algoritmo e Programação Estruturada
+Professor(a): João Robson
+Estudante: Douglas Souza de Lima
+Lista avaliativa 1 - Questão 1
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
